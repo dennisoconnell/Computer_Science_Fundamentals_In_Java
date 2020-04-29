@@ -1,5 +1,5 @@
 package Inheritance_Zoo;
 
-public class Main {
+public class Mammal {
 
 }
