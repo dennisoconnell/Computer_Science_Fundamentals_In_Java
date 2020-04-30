@@ -17,4 +17,6 @@ All projects can by navigating to Computer_Science_Fundamentals_In_Java/Computer
 - Branches and Loops
 - Abstract Classes and Polymorphism
 - Arrays
+- While Statements
+- If Statements
 - Applets and Graphics
