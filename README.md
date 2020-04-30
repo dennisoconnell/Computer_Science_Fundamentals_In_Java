@@ -1,7 +1,7 @@
 # Computer_Science_Fundamentals_In_Java
  
 # Navigation
-All projects can be found in the SRC folder
+All projects can by navigating to Computer_Science_Fundamentals_In_Java/Computer_Science_Fundamentals_In_Java/src/
 
 # Projects
 ### 1. If_Statement_Choose_Your_Own_Adventure
