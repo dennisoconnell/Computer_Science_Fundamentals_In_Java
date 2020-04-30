@@ -15,7 +15,6 @@ All projects can be found in the SRC folder
 # Concepts Applied:
 - Inheritance
 - Branches and Loops
-- Object Oriented Programming
+- Abstract Classes and Polymorphism
+- Arrays
 - Applets and Graphics
-
-# Gif Demo's
