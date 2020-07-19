@@ -1,7 +1,7 @@
 # Computer_Science_Fundamentals_In_Java
  
 # Navigation
-All projects can by navigating to Computer_Science_Fundamentals_In_Java/Computer_Science_Fundamentals_In_Java/src/
+All projects can be found by navigating to Computer_Science_Fundamentals_In_Java/Computer_Science_Fundamentals_In_Java/src/
 
 # Projects
 ### 1. If_Statement_Choose_Your_Own_Adventure
