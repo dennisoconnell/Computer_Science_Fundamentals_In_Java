@@ -1,16 +1,18 @@
 # Computer_Science_Fundamentals_In_Java
  
-# Description
+# Background
+I spent many of my summer weeks during high school at Wonderspace Tech Camp in Houston, TX (which unfortunately no longer exists, RIP). There I took my first steps as a programmer. Through these projects, I learned the fundamentals of object oriented programming and computer science. 
 
 # Navigation
+Click <a href="https://github.com/dennisoconnell/Computer_Science_Fundamentals_In_Java/tree/master/Computer_Science_Fundamentals_In_Java/src"> here </a> to check out the source code for all of these projects.
 
 # Table of Contents
-### 1. If_Statement_Choose_Your_Own_Adventure
-### 2. Inheritance_Zoo
-### 3. Object_Oriented_Battle_Arena
-### 4. Particle_Physics_In_The_Applet
-### 5. Particle_Physics_In_The_Applet_2
-### 6. Plus_Minus_Mult_Divide_Calculator
-### 7. While_Loop_Battle
+<ul>If Statement Choose Your Own Adventure </ul>
+<ul>Inheritance Zoo</ul>
+<ul>Object Oriented Battle Arena</ul>
+<ul>Particle Physics In The Applet</ul>
+<ul>Particle Physics In The Applet 2</ul>
+<ul>Plus Minus Mult Divide Calculator</ul>
+<ul>While Loop Battle</ul>
 
 # Background
